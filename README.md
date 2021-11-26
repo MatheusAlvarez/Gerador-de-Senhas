@@ -1,2 +1,7 @@
-# Gerador-de-Senha
-Gerador de senha desenvolvido em Python 
+Gerador de senhas em Python
+-----------------------------
+
+Operações a serem realizadas:
+- Criar o Layout do projeto
+- Criar Funções 
+- Conclusão
